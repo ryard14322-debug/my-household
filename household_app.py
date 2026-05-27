@@ -5,7 +5,7 @@ import re
 import requests
 
 # 🔑 여기에 메모해둔 노션 시크릿 키와 데이터베이스 ID를 넣으세요!
-NOTION_TOKEN = "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"
+NOTION_TOKEN = "516513476468rlZPq3r7KPiQMhpJvIOJ8Eii9fnHS3P30A"
 DATABASE_ID = "36dc06a904be80afa216e3d974743c5b"
 
 HEADERS = {
